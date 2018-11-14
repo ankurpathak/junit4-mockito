@@ -14,7 +14,7 @@ import static org.hamcrest.Matchers.empty;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.doReturn;
 
-public class MockitoSpyDIWithoutRunner {
+public class MockitoSpyDIWithoutRunnerTest {
 
     @Spy
     private List<String> list = new ArrayList<>();

@@ -10,7 +10,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import java.util.List;
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoMockDI {
+public class MockitoMockDITest {
 
     @Mock
     private List<String> list;

@@ -10,7 +10,7 @@ import java.util.Collections;
 import static org.junit.Assert.*;
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoDefault {
+public class MockitoDefaultTest {
 
     @Mock
     private Demo demo;

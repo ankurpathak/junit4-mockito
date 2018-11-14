@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.*;
 import static org.mockito.Mockito.doReturn;
 import static org.mockito.Mockito.spy;
 
-public class MockitoSpy {
+public class MockitoSpyTest {
 
     private List<String> list = new ArrayList<>();
 

@@ -14,7 +14,7 @@ import static org.mockito.Mockito.doReturn;
 import static org.mockito.Mockito.spy;
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoSpyDI {
+public class MockitoSpyDITest {
 
     @Spy
     private List<String> list = new ArrayList<>();

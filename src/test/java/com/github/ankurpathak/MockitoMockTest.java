@@ -8,7 +8,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 import static org.mockito.Mockito.mock;
 
-public class MockitoMock {
+public class MockitoMockTest {
 
     private List<String> list;
 

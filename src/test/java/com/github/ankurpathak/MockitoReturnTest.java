@@ -13,7 +13,7 @@ import static org.mockito.Mockito.when;
 
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoReturn {
+public class MockitoReturnTest {
 
     @Mock
     private List<String> list;

@@ -11,7 +11,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import java.util.List;
 
-public class MockitoMockDIWithoutRunner {
+public class MockitoMockDIWithoutRunnerTest {
 
     @Mock
     private List<String> list;

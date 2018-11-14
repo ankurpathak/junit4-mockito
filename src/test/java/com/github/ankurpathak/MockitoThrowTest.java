@@ -11,7 +11,7 @@ import static org.mockito.Mockito.doThrow;
 import static org.mockito.Mockito.when;
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoThrow {
+public class MockitoThrowTest {
 
     @Mock
     private List<String> list;

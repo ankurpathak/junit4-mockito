@@ -14,7 +14,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.mockito.Mockito.doReturn;
 
 @RunWith(MockitoJUnitRunner.class)
-public class MockitoDI {
+public class MockitoDITest {
 
     @Mock
     private List<String> list;
